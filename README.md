@@ -1,5 +1,5 @@
 # SPUG
-Cit Dev
+
 
 **COE Starter Kit**
 - Source: (https://github.com/microsoft/coe-starter-kit)
